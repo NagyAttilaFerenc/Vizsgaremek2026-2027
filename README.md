@@ -34,7 +34,7 @@ Az utazás végén egy optimalizáló algoritmus kiszámolja a minimális tranza
 # 4. A célunk
 A célunk, hogy egyszerűben tudják a csoportban utazók elosztani a költségeket, mely ebben a formában felgyorsítja és leegyszerűsíti az alábbi folyamatot.
 
-#5. Folyamatok:
+# 5. Folyamatok:
 Adatbázis (PostgreSQL): Relációs táblákban biztonságosan tárolja a felhasználókat, az utazásokat, a résztvevőket, a napokra bontott kiadásokat és a pontos megosztási arányokat.
 
 Backend (Node.js + Express + TypeScript): REST API-kat biztosít az adatok kezeléséhez, valamint üzleti logikát futtat a kiadások elosztására és a tartozások kiszámítására.

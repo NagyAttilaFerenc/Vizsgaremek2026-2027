@@ -32,7 +32,7 @@ A rendszer folyamatosan számolja a nettó egyenlegeket (ki mennyit fizetett és
 Az utazás végén egy optimalizáló algoritmus kiszámolja a minimális tranzakciószámot (aki tartozik, közvetlenül annak utaljon, aki pénzt követel).
 
 # 4. A célunk
-A célunk, hogy egyszerűben tudják a csoportban utazók elosztani a költségeket, mely ebben a formában felgyorsítja és leegyszerűsíti az alábbi folyamatot.
+A célunk, hogy egyszerűben tudják a csoportban utazók elosztani a költségeket, mely ebben a formában felgyorsítja és leegyszerűsíti az alábbi folyamatot, melyett valós időben lehet modosítani.
 
 # 5. Folyamatok:
 Adatbázis (PostgreSQL): Relációs táblákban biztonságosan tárolja a felhasználókat, az utazásokat, a résztvevőket, a napokra bontott kiadásokat és a pontos megosztási arányokat.
